@@ -4,7 +4,7 @@
 
 I'm a backend lover, almost anything about high performance or new apis technologies likes me
 
-I'm being working mostly with
+I'm being working mostly and currently trying to master
 
 - TypeScript
 - Python
