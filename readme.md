@@ -4,11 +4,7 @@
 
 I'm a backend lover, almost anything about high performance, AI or new backend technologies likes me. I'm currently working as a full stack developer, so i also know something about frontend and i want to improve in this area, but the backend is my core
 
-<br>
-
-### About My Skills
-
-<br>
+## About My Skills
 
 <div style="display:flex;">
 
