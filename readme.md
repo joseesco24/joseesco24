@@ -20,20 +20,23 @@ I'm being working mostly and currently trying to master
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="36" height="36" alt="TypeScript" />
 </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
-</a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36" alt="NodeJs"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="36" height="36" alt="Python"/>
 </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
+</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="36" height="36" alt="Redis" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="36" height="36" alt="MongoDB" />
 </a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker" />
@@ -59,9 +62,6 @@ I also know something about
 </a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="36" height="36" alt="MongoDB" />
 </a>
 
 </p>
