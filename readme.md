@@ -20,6 +20,9 @@ I'm being working mostly and currently trying to master
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="36" height="36" alt="TypeScript" />
 </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
+</a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36" alt="NodeJs"/>
 </a>
@@ -28,6 +31,9 @@ I'm being working mostly and currently trying to master
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="36" height="36" alt="Redis" />
 </a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker" />
@@ -74,9 +80,6 @@ I'm currently learning
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" />
 </a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" />
-</a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="GCP" />
 </a>
@@ -98,9 +101,6 @@ I also want to learn
 </a>
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-plain.svg" width="36" height="36" alt="Elixir" />
-</a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="36" height="36" alt="Redis" />
 </a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="36" height="36" alt="NextJs" />
