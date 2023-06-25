@@ -40,7 +40,6 @@ I'm being working mostly and currently trying to master
 </a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker" />
-</a>
 
 </p>
 
@@ -63,6 +62,9 @@ I also know something about
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="36" height="36" alt="Java" />
 </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" />
+</a>
 
 </p>
 
@@ -74,6 +76,9 @@ I'm currently learning
 
 <p align="left">
 
+<a href="https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET" />
+</a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="36" height="36" alt="Angular" />
 </a>
@@ -110,6 +115,9 @@ I also want to learn
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Kafka" />
 </a>
 
 </p>
