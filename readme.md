@@ -21,7 +21,7 @@ I'm being working mostly and currently trying to master
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="36" height="36" alt="TypeScript" />
 </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="36" height="36" alt="NodeJs"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="36" height="36" alt="NodeJs"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="36" height="36" alt="Python"/>
@@ -48,7 +48,7 @@ I also know something about
 <p align="left">
 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu" />
 </a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="36" height="36" alt="C" />
@@ -89,7 +89,7 @@ I'm currently learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="GCP" />
 </a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="36" height="36" alt="Rust" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" />
 </a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
@@ -108,7 +108,7 @@ I also want to learn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-plain.svg" width="36" height="36" alt="Elixir" />
 </a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="36" height="36" alt="NextJs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
